@@ -83,6 +83,5 @@ data-warehouse-project/
 ├── tests/                              # Test scripts and quality files
 │
 ├── README.md                           # Project overview and instructions
-└── requirements.txt                    # Dependencies and requirements for the project
 ```
 ---
